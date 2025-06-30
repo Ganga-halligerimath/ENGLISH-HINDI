@@ -21,4 +21,4 @@ OBJECTIVE
 -  Save and reload model for future use
 
 DATASET
-Parallel English-Hindi sentence pairs
+- Parallel English-Hindi sentence pairs
